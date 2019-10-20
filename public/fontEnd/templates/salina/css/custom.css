@@ -1,0 +1,178 @@
+.footer-mid .sp-module-title {
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-bottom: 8px;
+}
+.footer-mid .sp-module-title::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 38px;
+    background: #009eff;
+}
+
+@media (min-width: 1200px) {
+	
+	body.helix-ultimate .sppb-row-container {
+		max-width: 1170px;
+	}
+	
+	.container {
+		max-width: 1170px;
+	}
+
+}
+
+@media (max-width: 1159px) {
+.layout-boxed .body-innerwrapper {
+    width: 100%;
+}
+}
+
+div.catItemView {
+    padding: 15px;
+	margin-bottom:0;
+}
+.pg-blog-item {
+	margin-bottom:16px;
+}
+div.itemListCategory img {
+	width:60px;
+}
+div.itemListCategory h2 {
+    display: inline-block;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+#sp-left .sp-module, #sp-right .sp-module {
+	margin-top:50px;
+}
+div.itemIntroText, div.itemFullText {
+	font-size: 14px;
+	font-family: "Raleway", sans-serif;
+	color: #666666;
+	font-weight: 400;
+}
+div.itemComments {
+    background: unset;
+    border: unset;
+    border-radius: 0;
+    padding: 0;
+}
+div.itemCommentsForm form input.inputbox {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    line-height: normal;
+	height:42px;
+	margin-top:20px;
+}
+div.itemCommentsForm form textarea.inputbox {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    margin-top: 20px;
+	padding:10px;
+}
+div.itemCommentsForm form span#formLog {
+    margin: 24px 0 0 0;
+}
+.rating-toolbar {
+	margin:25px 0;
+	overflow:hidden;
+}
+div.itemRatingBlock {
+    float: left;
+}
+div.itemToolbar {
+    margin: 0;
+    float: right;
+}
+div.itemFacebookButton {
+  width: auto;
+  margin-right:20px;
+  margin-top: -4px;
+}
+div.itemTwitterButton {
+    margin: 0 20px 0 0;
+}
+div.itemGooglePlusOneButton {
+    float: left;
+    margin-top: 0;
+}
+div.itemSocialSharing {
+  padding:0;
+  float:left;
+}
+.onefield.fieldacyemail {
+	width:100%;
+}
+.newsletter-box .sp-module-title {
+	float:left;
+	padding-top:10px;
+}
+
+.header-style-1 #offcanvas-toggler > .fa {
+    color: #fff;
+}
+div.k2ArchivesBlock ul li {
+    margin: 10px 0;
+}
+div.k2ArchivesBlock ul li a {
+    color: #666666;
+}
+@media (max-width: 991px) {
+	.header-style-1 .header-bottom-area {
+		padding: 15px 0;
+		position: relative;
+		z-index: 10;
+	}
+	.newsletter-box .sp-module-title {
+		display: none;
+	}
+}
+.sppb-ajax-contact-status.form-messege {
+    float: right;
+    margin-top: -50px;
+}
+@media (max-width: 767px) {}
+
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    background: #15151f;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a {
+    color: #fff;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover {
+    color: #009eff;
+    background: transparent;
+}
+div.catItemTagsBlock ul.catItemTags li a {
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    padding-right: 12px;
+    color: #666666;
+}
+.sp-copyright {
+    font-size: 13px;
+    color: #ffffff;
+}
+div.k2CategoriesListBlock ul li a:hover {
+	color: #009eff;
+}
+.blog-item .blog-item-meta span {
+    font-size: 13px;
+}
