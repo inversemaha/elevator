@@ -18,30 +18,30 @@
     <div class="row">
         <div class="col-md-6 col-lg-6 col-xl-3">
             <div class="widget-panel widget-style-2 bg-white">
-                <i class="md md-store-mall-directory text-info"></i>
-                <h2 class="m-0 text-dark counter font-600">0</h2>
-                <div class="text-muted m-t-5">demo</div>
+                <i class="md md-view-list text-info"></i>
+                <h2 class="m-0 text-dark counter font-600">{{$category_count}}</h2>
+                <div class="text-muted m-t-5">Category</div>
             </div>
         </div>
         <div class="col-md-6 col-lg-6 col-xl-3">
             <div class="widget-panel widget-style-2 bg-white">
-                <i class="md md-store-mall-directory text-info"></i>
-                <h2 class="m-0 text-dark counter font-600">0</h2>
-                <div class="text-muted m-t-5">demo</div>
+                <i class="md md-local-grocery-store text-info"></i>
+                <h2 class="m-0 text-dark counter font-600">{{$product_count}}</h2>
+                <div class="text-muted m-t-5">Product</div>
             </div>
         </div>
         <div class="col-md-6 col-lg-6 col-xl-3">
             <div class="widget-panel widget-style-2 bg-white">
-                <i class="md md-list text-primary"></i>
-                <h2 class="m-0 text-dark counter font-600">0</h2>
-                <div class="text-muted m-t-5">demo</div>
+                <i class="md md-store-mall-directory text-primary"></i>
+                <h2 class="m-0 text-dark counter font-600">{{$feature_count}}</h2>
+                <div class="text-muted m-t-5">Feature</div>
             </div>
         </div>
         <div class="col-md-6 col-lg-6 col-xl-3">
             <div class="widget-panel widget-style-2 bg-white">
-                <i class="md md-store-mall-directory text-info"></i>
-                <h2 class="m-0 text-dark counter font-600">0</h2>
-                <div class="text-muted m-t-5">demo</div>
+                <i class="md md-local-laundry-service text-info"></i>
+                <h2 class="m-0 text-dark counter font-600">{{$service_count}}</h2>
+                <div class="text-muted m-t-5">Service</div>
             </div>
         </div>
         <div class="col-md-6 col-lg-6 col-xl-3">

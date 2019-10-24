@@ -3,6 +3,7 @@
 #Font-End Panel
 
 Route::get('/','GeneralController@index');
+Route::get('/residential','GeneralController@residential');
 
 
 Auth::routes();

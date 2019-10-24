@@ -2,7 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Feature;
+use App\Product;
+use App\Service;
 use App\User;
+use App\Category;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Redirect;
@@ -32,12 +36,19 @@ class HomeController extends Controller
 
      public function index()
      {
-        /*   $post_count = Post::count();
-         $category_count = Category::count();*/
+        /*   $post_count = Post::count();*/
+         $category_count = Category::count();
+         $product_count = Product::count();
+         $feature_count = Feature::count();
+         $service_count = Service::count();
          $user_count = User::count();
 
 
          return view('admin.pages.home.index')
+             ->with('category_count', $category_count)
+             ->with('product_count', $product_count)
+             ->with('feature_count', $feature_count)
+             ->with('service_count', $service_count)
              ->with('user_count', $user_count);
      }
 

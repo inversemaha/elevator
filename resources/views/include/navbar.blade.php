@@ -1,60 +1,67 @@
-<div class="header header-style-2 sticky-header">
-   <div class="header-top-area bg-dark">
+
+<!--header-->
+<header id="header">
+   <div class="top-bar">
       <div class="container">
-         <div class="header-top-area-inner">
-            <ul>
-               <li><i class="fa fa-phone"></i> <a href="tel:+1775.323.8822">(+1) 775.323.8822</a></li>
-               <li><i class="fa fa-envelope-o"></i> <a href="mailto:info@kochelevator.com">info@kochelevator.com</a></li>
-            </ul>
+         <div class="row">
+            <div class="col-sm-2 col-md-2 col-xs-12">
+               <div class="top-number">
+                  <p><i class="fa fa-phone-square"></i> +0123 456 70 90</p>
+               </div>
+            </div>
+            <div class="col-sm-3 col-md-3 col-xs-12">
+               <div class="top-email">
+                  <p><i class="fa fa-envelope"></i> <a href="#"> example@autrepair.com</a></p>
+               </div>
+            </div>
+            <div class="col-sm-3 col-md-3 col-xs-12">
+               <div class="top-number">
+                  <p><i class="fa fa-map-marker"></i> 301,Auto Repair, United States</p>
+               </div>
+            </div>
+            <div class="col-sm-4 col-md-4 col-xs-12">
+               <div class="social">
+                  <ul class="social-share">
+                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                     <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                  </ul>
+                  <div class="search">
+                     <form class="form">
+                        <input type="text" class="search-form" autocomplete="off" placeholder="Search">
+                        <input class="searchsubmit" type="submit" id="searchsubmit" ><i class="fa fa-search"></i>
+                     </form>
+                  </div>
+               </div>
+            </div>
          </div>
       </div>
    </div>
-   <div class="header-bottom-area">
-      <div class="container">
-         <div class="header-inner d-lg-flex">
-            <div class="logo"><a href="index.html"><img class="logo-image" src="images/logo.png" alt="Koch Elevator"></a></div>
-            <nav class="sa-navigation">
-               <a id="offcanvas-toggler" aria-label="Navigation" class="offcanvas-toggler-right d-block d-lg-none" href="javascript:void(0);"><i class="fa fa-bars" aria-hidden="true" title="Navigation"></i></a>
-               <ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block">
-                  <li class="sp-menu-item current-item active"><a  href="index-2.html" >Home</a></li>
-                  <li class="sp-menu-item"><a  href="index.php/about.html" >About</a></li>
-                  <li class="sp-menu-item sp-has-child">
-                     <a  href="index.php/service.html" >Service</a>
-                     <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 250px;">
-                        <div class="sp-dropdown-inner">
-                           <ul class="sp-dropdown-items">
-                              <li class="sp-menu-item"><a  href="index.php/service/maintenance.html" >Maintenance</a></li>
-                              <li class="sp-menu-item"><a  href="index.php/service/consulting.html" >Consulting</a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="sp-menu-item sp-has-child">
-                     <a  href="index.php/residential.html" >Residential</a>
-                     <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 250px;">
-                        <div class="sp-dropdown-inner">
-                           <ul class="sp-dropdown-items">
-                              <li class="sp-menu-item"><a  href="index.php/residential/residential-elevators.html" >Residential Elevators</a></li>
-                              <li class="sp-menu-item"><a  href="index.php/residential/stair-lifts.html" >Stair Lifts</a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="sp-menu-item sp-has-child">
-                     <a  href="index.php/commercial.html" >Commercial</a>
-                     <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 250px;">
-                        <div class="sp-dropdown-inner">
-                           <ul class="sp-dropdown-items">
-                              <li class="sp-menu-item"><a  href="index.php/commercial/commercial-elevators.html" >Commercial Elevators</a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </li>
-                  <li class="sp-menu-item"><a  href="index.php/vertical-platform-lifts.html" >Vertical Platform Lifts</a></li>
-                  <li class="sp-menu-item"><a  href="index.php/contact.html" >Contact</a></li>
+   <!--/#top-bar-->
+   <!--nav-->
+   <div class="navigation" id="navigation" data-spy="affix" data-offset-top="2">
+      <nav class="navbar navbar-inverse" id="fixed-collapse-navbar">
+         <div class="container">
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+               <a class="navbar-brand" href="index.html"><img src="{{asset('fontEnd/images/logo.png')}}" alt="logo"></a> </div>
+            <div class="collapse navbar-collapse navbar-right">
+               <ul class="nav navbar-nav">
+                  <li> <a href="/" >Home</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Services</a></li>
+                  <li> <a href="/residential"  role="button" aria-haspopup="true" aria-expanded="false">Residential</a></li>
+                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Commercial</a></li>
+                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Contact Us</a></li>
                </ul>
-            </nav>
+            </div>
          </div>
-      </div>
+         <!--/.container-->
+      </nav>
    </div>
-</div>
+   <!--/#nav-->
+
+</header>
+<!--/#header--> 

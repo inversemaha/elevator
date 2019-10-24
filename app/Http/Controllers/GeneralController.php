@@ -10,4 +10,8 @@ class GeneralController extends Controller
     {
        return view('general.index');
     }
+    public function residential()
+    {
+        return view('general.residential.index');
+    }
 }

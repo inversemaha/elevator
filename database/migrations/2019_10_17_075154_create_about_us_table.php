@@ -16,10 +16,10 @@ class CreateAboutUsTable extends Migration
         Schema::create('about_us', function (Blueprint $table) {
             $table->increments('aboutId');
             $table->string('visionTitle')->nullable();
-            $table->string('visionDescription')->nullable();
+            $table->text('visionDescription')->nullable();
             $table->string('visionImage')->nullable();
             $table->string('aboutTitle')->nullable();
-            $table->string('aboutDescription')->nullable();
+            $table->text('aboutDescription')->nullable();
             $table->string('aboutImage')->nullable();
             $table->timestamps();
         });

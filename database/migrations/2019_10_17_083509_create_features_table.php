@@ -17,15 +17,15 @@ class CreateFeaturesTable extends Migration
             $table->increments('featureId');
             $table->unsignedInteger('productId');
             $table->string('featureTitle')->nullable();
-            $table->string('featureDescription')->nullable();
+            $table->text('featureDescription')->nullable();
             $table->string('featureImage')->nullable();
             $table->string('featureFile')->nullable();
             $table->string('featureTitle2')->nullable();
-            $table->string('featureDescription2')->nullable();
+            $table->text('featureDescription2')->nullable();
             $table->string('featureImage2')->nullable();
             $table->string('featureFile2')->nullable();
             $table->string('featureTitle3')->nullable();
-            $table->string('featureDescription3')->nullable();
+            $table->text('featureDescription3')->nullable();
             $table->string('featureImage3')->nullable();
             $table->string('featureFile3')->nullable();
             $table->timestamps();
