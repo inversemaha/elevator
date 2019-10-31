@@ -2,7 +2,6 @@
 @section('title', 'Elevator Engineers')
 @section('content')
 
-    <!-- about us slider -->
     <section id="about-us" class="pading">
         <div class="container">
             <div class="row wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
@@ -16,7 +15,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12 text-center">
                     <div class="about-text wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <h3>HOME ELEVATORS</h3>
+                        <h3>COMMERCIAL ELEVATORS</h3>
                         <p class="text-justify">Home elevators are smaller than commercial elevators. Typically, a home elevator can accommodate three or four adults or two people with one in a wheelchair. Floor size can be up to 18 sq. ft. (1.67 sq. meters) – where allowable by code. 500-lb. (226 kg), 950-lb. (430kg) and 1,000-lb (453 kg) weight capacities are available. They are usually designed to complement or replicate the home’s interior or a homeowner’s custom elements.
 
                             Architects love the near endless design possibilities. Every product is skillfully hand-made and finished one-at-a-time, making customization possible. We have built a strong reputation in the Reno/ Lake Tahoe area by providing exceptional customer service and delivering a clean reliable product.</p>
@@ -74,13 +73,12 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 text-center">
                     <div class="about-text wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <h3>About HOME ELEVATORS</h3>
+                        <h3>About COMMERCIAL ELEVATORS</h3>
                         <p class="text-justify">Choose a standard model or a one-of-a-kind elevator. Inclinator’s Elevette® is available in five standard cab styles, three drive system types, many door configurations and the most custom features and accessory options. Elevette can be placed in an interior or exterior elevator shaft or in no shaft … running up the center of open winding stairs, next to stairways and where no stairs exist.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--/#about-slider-->
 
 @endsection

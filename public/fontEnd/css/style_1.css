@@ -84,7 +84,7 @@ a:hover, a:focus {
   height: 100%;
   z-index: 20000;
   text-align: center;
-  background-color: #fdb813;
+  background-color: #3b5998;
 }
 #mask {
   position: relative;
@@ -136,7 +136,7 @@ a:hover, a:focus {
     height: 60px;
     -webkit-transform: translateY(15px);
     transform: translateY(15px);
-    background-color: #fdb813;
+    background-color: #3b5998;
   }
   50% {
     height: 30px;
@@ -362,7 +362,7 @@ nav {
   padding-bottom: 0;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: #fdb813;
+  background-color: #3b5998;
 }
 .navbar-header {
   margin-top:5px;

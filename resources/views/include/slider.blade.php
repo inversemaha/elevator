@@ -4,15 +4,16 @@
     <div class="carousel slide">
         <div class="carousel-inner">
             <div class="item active" style="background-image: url('{{ asset('fontEnd/images/bg5.jpg')}}');">
-                <div class="container">
+                <div style="width: 1270px;" class="container">
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="carousel-content text-center">
-                                <h1 class="animation animated-item-4"><strong>THE BEST</strong> AUTO REPAIR SERVICE</h1>
+                                <h1 class="animation animated-item-4">ELEVATOR ENGINEERS LTD</h1>
                                 <br>
-                                <h2 class="animation animated-item-5">WE REPAIR SINCE 2001</h2>
+                                <h2 class="animation animated-item-5">BEST SOURCE FOR VALUE-DRIVEN ELEVATOR AND LIFT SYSTEMS</h2>
                                 <br>
-                                <a class="btn-slide animation animated-item-1" href="#">Join Now</a> <a class="active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
+
+                                <a class="hidden btn-slide animation animated-item-1" href="#"></a> <a class="hidden active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
                         </div>
                     </div>
                 </div>
@@ -28,7 +29,7 @@
                                 <br>
                                 <h2 class="animation animated-item-5">OUR GOAL IS SATISFACTION</h2>
                                 <br>
-                                <a class="btn-slide animation animated-item-1" href="#">Join Now</a> <a class="active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
+                                <a class="hidden btn-slide animation animated-item-1" href="#">Join Now</a> <a class="hidden active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
                         </div>
                     </div>
                 </div>
@@ -40,11 +41,11 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="carousel-content text-center">
-                                <h1 class="animation animated-item-4"><strong>THE ONLY</strong> CAR REPAIR SERVICE IN HERE</h1>
+                                <h1 class="animation animated-item-4"><strong>THE ONLY</strong> ELEVATOR REPAIR SERVICE IN HERE</h1>
                                 <br>
                                 <h2 class="animation animated-item-5">WE REPAIR WITH LOVE</h2>
                                 <br>
-                                <a class="btn-slide animation animated-item-1" href="#">Join Now</a> <a class="active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
+                                <a class="hidden btn-slide animation animated-item-1" href="#">Join Now</a> <a class="hidden active btn-slide animation animated-item-1" href="#">Booking Now</a> </div>
                         </div>
                     </div>
                 </div>

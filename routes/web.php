@@ -4,6 +4,10 @@
 
 Route::get('/','GeneralController@index');
 Route::get('/residential','GeneralController@residential');
+Route::get('/about-us','GeneralController@about_us');
+Route::get('/services','GeneralController@services');
+Route::get('/commercial','GeneralController@commercial');
+Route::get('/contact-us','GeneralController@contact_us');
 
 
 Auth::routes();

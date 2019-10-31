@@ -6,17 +6,17 @@
          <div class="row">
             <div class="col-sm-2 col-md-2 col-xs-12">
                <div class="top-number">
-                  <p><i class="fa fa-phone-square"></i> +0123 456 70 90</p>
+                  <p><i class="fa fa-phone-square"></i> +88-02-44806324</p>
                </div>
             </div>
             <div class="col-sm-3 col-md-3 col-xs-12">
                <div class="top-email">
-                  <p><i class="fa fa-envelope"></i> <a href="#"> example@autrepair.com</a></p>
+                  <p><i class="fa fa-envelope"></i> <a href="#"> elevatorengineersltd@gmail.com</a></p>
                </div>
             </div>
             <div class="col-sm-3 col-md-3 col-xs-12">
                <div class="top-number">
-                  <p><i class="fa fa-map-marker"></i> 301,Auto Repair, United States</p>
+                  <p><i class="fa fa-map-marker"></i> 664/A, Road # 09, DOHS Mirpur, Dhaka</p>
                </div>
             </div>
             <div class="col-sm-4 col-md-4 col-xs-12">
@@ -28,12 +28,12 @@
                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                      <li><a href="#"><i class="fa fa-skype"></i></a></li>
                   </ul>
-                  <div class="search">
-                     <form class="form">
-                        <input type="text" class="search-form" autocomplete="off" placeholder="Search">
-                        <input class="searchsubmit" type="submit" id="searchsubmit" ><i class="fa fa-search"></i>
-                     </form>
-                  </div>
+                  {{--<div class="search">--}}
+                     {{--<form class="form">--}}
+                        {{--<input type="text" class="search-form" autocomplete="off" placeholder="Search">--}}
+                        {{--<input class="searchsubmit" type="submit" id="searchsubmit" ><i class="fa fa-search"></i>--}}
+                     {{--</form>--}}
+                  {{--</div>--}}
                </div>
             </div>
          </div>
@@ -50,11 +50,11 @@
             <div class="collapse navbar-collapse navbar-right">
                <ul class="nav navbar-nav">
                   <li> <a href="/" >Home</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Services</a></li>
+                  <li><a href="/about-us">About Us</a></li>
+                  <li> <a href="/services"  role="button" aria-haspopup="true" aria-expanded="false">Services</a></li>
                   <li> <a href="/residential"  role="button" aria-haspopup="true" aria-expanded="false">Residential</a></li>
-                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Commercial</a></li>
-                  <li> <a href="#"  role="button" aria-haspopup="true" aria-expanded="false">Contact Us</a></li>
+                  <li> <a href="commercial"  role="button" aria-haspopup="true" aria-expanded="false">Commercial</a></li>
+                  <li> <a href="/contact-us"  role="button" aria-haspopup="true" aria-expanded="false">Contact Us</a></li>
                </ul>
             </div>
          </div>

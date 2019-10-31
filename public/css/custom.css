@@ -566,7 +566,7 @@ body,.featured-row{
 
 @media (min-width: 1200px) {
     .container {
-        width: 1245px;
+        width: 1270px !important;
     }
 }
 

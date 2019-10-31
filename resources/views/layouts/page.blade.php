@@ -29,9 +29,10 @@
 <!-- Back-To-Top -->
 <div class="container"> <a href="#" class="back-to-top text-center" style="display: inline;"> <i class="fa fa-angle-up"></i> </a> </div>
 <!--/#Back-To-Top-->
-@include('include.navbar')
-@include('include.pageSlider')
-@yield('content')
+
+        @include('include.navbar')
+        @include('include.pageSlider')
+        @yield('content')
 
 
 <!-- Footer -->
@@ -42,15 +43,14 @@
                 <h3>Opening Hours</h3>
                 <ul class="news-letter">
                     <li>
-                        <p class="first-time">Monday - Friday<i class="fa fa-clock-o"><span>06.30 - 21.00</span></i></p>
+                        <p class="first-time">Saturday - Thursday<i class="fa fa-clock-o"><span>9.00 am - 6.00 pm</span></i></p>
                     </li>
                     <li>
-                        <p class="first-time">Monday - Friday<i class="fa fa-clock-o"><span>06.30 - 21.00</span></i></p>
+                        <p class="first-time">Saturday - Thursday<i class="fa fa-clock-o"><span>9.00 am - 6.00 pm</span></i></p>
                     </li>
                     <li>
-                        <p class="first-time">Monday - Friday<i class="fa fa-clock-o"><span>06.30 - 21.00</span></i></p>
+                        <p class="first-time">Saturday - Thursday<i class="fa fa-clock-o"><span>9.00 am - 6.00 pm</span></i></p>
                     </li>
-                    <li>
                         <input type="search" placeholder="E-mail" class="subscibe">
                         <input type="submit" class="subbutton" value="Subscribe">
                     </li>
@@ -59,29 +59,29 @@
             <div class="col-md-2 col-sm-2 col-xs-12 footer-box">
                 <h3>Our Services</h3>
                 <ul class="links">
-                    <li><a href="#">Diagnostic Services</a></li>
-                    <li><a href="#">Inspection Services</a></li>
-                    <li><a href="#">All Performance</a></li>
-                    <li><a href="#">Oil Quailty Repair</a></li>
-                    <li><a href="#">Engine Mentinance</a></li>
+                    <li><a href="#">Maintenance and Repair</a></li>
+                    <li><a href="#">Inspection and Lubrication</a></li>
+                    <li><a href="#">Full Maintenance (10:00 am to 6:30 pm, Sat – Thurs)</a></li>
+                    <li><a href="#">Advance Support</a></li>
+                    <li><a href="#">Full Maintenance with overtime callbacks</a></li>
                     <li><a href="#">Sespention</a></li>
                 </ul>
             </div>
             <div class="col-md-3 col-sm-3 col-xs-12 footer-box">
-                <div class="unborder"><img  src="{{asset('fontEnd/images/logo2.png')}}" class="img-responsive" alt="logo"></div>
+                <div class="unborder"><img  src="{{asset('fontEnd/images/logo.png')}}" class="img-responsive" alt="logo"></div>
                 <ul class="adress">
                     <li>
                         <h4>Address</h4>
                     </li>
-                    <li><i class="fa fa-map-marker"></i> 301,Auto Repair, United States</li>
+                    <li><i class="fa fa-map-marker"></i> 664/A,Road # 09 , DOHS Mirpur, Dhaka – 1216</li>
                     <li>
                         <h4>Phone</h4>
                     </li>
-                    <li><i class="fa fa-phone-square"></i>+0123 456 70 90 / +0123 456 70 90</li>
+                    <li><i class="fa fa-phone-square"></i>+88-02-44806324 / 44806325</li>
                     <li>
                         <h4>Email</h4>
                     </li>
-                    <li><i class="fa fa-envelope-o"></i> <a href="#"> example@autrepair.com</a></li>
+                    <li><i class="fa fa-envelope-o"></i> <a href="#"> elevatorengineersltd@gmail.com </a></li>
                 </ul>
             </div>
         </div>
@@ -91,7 +91,7 @@
     <div class="container">
         <div class="row wow fadeInDown">
             <div class="col-sm-12 text-center">
-                <p>&copy; 2019 <a target="_blank" href="#" title="Auto Repair HTML templates">Auto Repair</a>.
+                <p>&copy; 2019 <a target="_blank" href="#" title="Auto Repair HTML templates">ELEVATOR ENGINEERS LTD.</a>.
                     All Rights Reserved.</p>
             </div>
         </div>
