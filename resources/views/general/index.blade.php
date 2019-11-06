@@ -21,7 +21,7 @@
                                     <h4>Inspection and Lubrication</h4>
                                     <span>Elevator Cleaning</span> </div>
                                 <div class="about-us-post"> <a href="#"><i class="fa fa-desktop"></i></a>
-                                    <h4>Full Maintenance </h4>
+                                    <h4>Overtime Callbacks</h4>
                                     <span>Auto Maintenance</span> </div>
                             </div>
                             <div class="col-md-6">

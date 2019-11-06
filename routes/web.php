@@ -3,10 +3,13 @@
 #Font-End Panel
 
 Route::get('/','GeneralController@index');
-Route::get('/residential','GeneralController@residential');
+//Route::get('/residential','GeneralController@residential');
 Route::get('/about-us','GeneralController@about_us');
+Route::get('/products','GeneralController@products');
+Route::get('/our-clients','GeneralController@our_clients');
+Route::get('/our-partners','GeneralController@our_partners');
 Route::get('/services','GeneralController@services');
-Route::get('/commercial','GeneralController@commercial');
+//Route::get('/commercial','GeneralController@commercial');
 Route::get('/contact-us','GeneralController@contact_us');
 
 

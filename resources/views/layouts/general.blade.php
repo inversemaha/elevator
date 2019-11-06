@@ -55,15 +55,15 @@
                            </li>
                         </ul>
                      </div>
-                     <div class="col-md-2 col-sm-2 col-xs-12 footer-box">
-                        <h3>Our Services</h3>
+                     <div class="col-md-4 col-sm-4 col-xs-12 footer-box">
+                        {{--<h3>Our Services</h3>--}}
                         <ul class="links">
-                           <li><a href="#">Maintenance and Repair</a></li>
-                           <li><a href="#">Inspection and Lubrication</a></li>
-                           <li><a href="#">Full Maintenance (10:00 am to 6:30 pm, Sat – Thurs)</a></li>
-                           <li><a href="#">Advance Support</a></li>
-                           <li><a href="#"></a></li>
-                           <li><a href="#">Sespention</a></li>Full Maintenance with overtime callbacks
+                           {{--<li><a href="#">Maintenance and Repair</a></li>--}}
+                           {{--<li><a href="#">Inspection and Lubrication</a></li>--}}
+                           {{--<li><a href="#">Full Maintenance (10:00 am to 6:30 pm, Sat – Thurs)</a></li>--}}
+                           {{--<li><a href="#">Advance Support</a></li>--}}
+                           {{--<li><a href="#"></a></li>--}}
+                           {{--<li><a href="#">Sespention</a>--}}
                         </ul>
                      </div>
                      <div class="col-md-3 col-sm-3 col-xs-12 footer-box">
@@ -76,6 +76,7 @@
                            <li>
                               <h4>Phone</h4>
                            </li>
+                           <li><i class="fa fa-phone-square"></i>+88-02-44806324 / 44806325</li>
                            <li><i class="fa fa-phone-square"></i>+88-02-44806324 / 44806325</li>
                            <li>
                               <h4>Email</h4>

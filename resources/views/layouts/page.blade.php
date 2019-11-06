@@ -78,6 +78,7 @@
                         <h4>Phone</h4>
                     </li>
                     <li><i class="fa fa-phone-square"></i>+88-02-44806324 / 44806325</li>
+                    <li><i class="fa fa-phone-square"></i>+88-02-44806324 / 44806325</li>
                     <li>
                         <h4>Email</h4>
                     </li>

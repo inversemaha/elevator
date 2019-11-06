@@ -347,7 +347,8 @@ nav {
 }
 
 .navbar>.container .navbar-brand{
-  margin-left: 0;
+  margin-left: -40px;
+  padding-top: 7px;
 }
 .navbar-brand {
   padding: 0;
