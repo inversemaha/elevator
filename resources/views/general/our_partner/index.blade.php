@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
                 <div class="col-md-12 text-center">
-                    <h2 class="heading-margin">Our Products</h2>
+                    <h2 class="heading-margin">Our Business Partners</h2>
                     {{--<p class="text-margin">We, as an authorized supplier, maintain an inventory of virtually every elevator spare parts manufactured since last 13 years. All of these supplies will be shipped for any spare parts as required. This service will be utilized only in the event of materials which are not available at stock. The spare parts manufactured by our suppliers maintain standard specifications.</p>--}}
                 </div>
             </div>
