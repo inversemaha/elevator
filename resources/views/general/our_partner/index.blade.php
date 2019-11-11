@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12 text-center">
+                <div class="col-md-12 col-sm-12 col-xs-12 text-center">
                     <div class="about-text wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <h3>About ELEVATOR ENGINEERS LTD.</h3>
                         <p class="text-justify">Our company is your best source for value-driven elevator and lift systems.
@@ -20,30 +20,30 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 text-right wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
-                    <div id="about-slider">
-                        <div id="carousel-slider" class="carousel slide" data-ride="carousel">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators visible-xs">
-                                <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
-                                <li data-target="#carousel-slider" data-slide-to="1"></li>
-                                <li data-target="#carousel-slider" data-slide-to="2"></li>
-                            </ol>
-                            <div class="carousel-inner">
-                                <div style="height: 400px" class="item active"> <img src="{{asset('fontEnd/images/bg2.jpg')}}" class="img-responsive" alt=""> </div>
-                                <div class="item"> <img src="{{asset('fontEnd/images/bg1.jpg')}}" class="img-responsive" alt=""> </div>
-                                <div class="item"> <img src="{{asset('fontEnd/images/bg2.jpg')}}" class="img-responsive" alt=""> </div>
-                            </div>
-                            <a class="left carousel-control hidden-xs"  href="#carousel-slider" data-slide="prev">
-                                <i class="fa fa-angle-left"></i>
-                            </a>
-                            <a class=" right carousel-control hidden-xs" href="#carousel-slider" data-slide="next">
-                                <i class="fa fa-angle-right"></i>
-                            </a>
-                        </div>
-                        <!--/#carousel-slider-->
-                    </div>
-                </div>
+                {{--<div class="col-md-6 col-sm-6 col-xs-12 text-right wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">--}}
+                    {{--<div id="about-slider">--}}
+                        {{--<div id="carousel-slider" class="carousel slide" data-ride="carousel">--}}
+                            {{--<!-- Indicators -->--}}
+                            {{--<ol class="carousel-indicators visible-xs">--}}
+                                {{--<li data-target="#carousel-slider" data-slide-to="0" class="active"></li>--}}
+                                {{--<li data-target="#carousel-slider" data-slide-to="1"></li>--}}
+                                {{--<li data-target="#carousel-slider" data-slide-to="2"></li>--}}
+                            {{--</ol>--}}
+                            {{--<div class="carousel-inner">--}}
+                                {{--<div style="height: 400px" class="item active"> <img src="{{asset('fontEnd/images/bg2.jpg')}}" class="img-responsive" alt=""> </div>--}}
+                                {{--<div class="item"> <img src="{{asset('fontEnd/images/bg1.jpg')}}" class="img-responsive" alt=""> </div>--}}
+                                {{--<div class="item"> <img src="{{asset('fontEnd/images/bg2.jpg')}}" class="img-responsive" alt=""> </div>--}}
+                            {{--</div>--}}
+                            {{--<a class="left carousel-control hidden-xs"  href="#carousel-slider" data-slide="prev">--}}
+                                {{--<i class="fa fa-angle-left"></i>--}}
+                            {{--</a>--}}
+                            {{--<a class=" right carousel-control hidden-xs" href="#carousel-slider" data-slide="next">--}}
+                                {{--<i class="fa fa-angle-right"></i>--}}
+                            {{--</a>--}}
+                        {{--</div>--}}
+                        {{--<!--/#carousel-slider-->--}}
+                    {{--</div>--}}
+                {{--</div>--}}
             </div>
         </div>
     </section>

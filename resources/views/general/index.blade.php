@@ -175,105 +175,6 @@
     </section>
     <!--/#services-->
 
-    <!--Contact emr-->
-    <section id="large-call-to-action">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-4 block">
-                    <div class="bg" style="background-image: url('{{ asset('fontEnd/images/big-cta.jpg')}}');"></div>
-                </div>
-                <div class="col-md-8">
-                    <div class="content">
-                        <h1>Providing Personalized and High Quality Services.</h1>
-                        <p>We, as an authorized supplier, maintain an inventory of virtually every elevator spare parts manufactured since last 13 years. All of these supplies will be shipped for any spare parts as required. This service will be utilized only in the event of materials which are not available at stock. The spare parts manufactured by our suppliers maintain standard specifications.</p>
-                        <a class="btn-slide animation animated-item-3" href="/contact-us">Contact Us</a> </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--/#Contact emr-->
-
-    <!--Experts-->
-    {{--<section id="team" class="pading">--}}
-        {{--<div class="container">--}}
-            {{--<div class="row margin wow fadeInUp animated" data-wow-duration="700ms">--}}
-                {{--<div class="col-md-3 col-sm-3">--}}
-                    {{--<h2>Meet Our Team</h2>--}}
-                {{--</div>--}}
-                {{--<div class="col-md-9 col-sm-9">--}}
-                    {{--<hr>--}}
-                {{--</div>--}}
-            {{--</div>--}}
-            {{--<div class="row">--}}
-                {{--<div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">--}}
-                    {{--<div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">--}}
-                        {{--<div class="overlay2">--}}
-                            {{--<h5>Auto Repair</h5>--}}
-                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
-                            {{--<ul class="social-links text-center">--}}
-                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
-                            {{--</ul>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<h4>John Filmr Doe</h4>--}}
-                    {{--<span>Managing Director</span> </div>--}}
-                {{--<div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">--}}
-                    {{--<div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-2.png')}}" alt="Team Member" class="img-responsive">--}}
-                        {{--<div class="overlay2">--}}
-                            {{--<h5>Auto Repair</h5>--}}
-                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
-                            {{--<ul class="social-links text-center">--}}
-                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
-                            {{--</ul>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<h4>John Filmr Doe</h4>--}}
-                    {{--<span>Managing Director</span> </div>--}}
-                {{--<div class="team-member col-md-3 col-sm-3 col-xs-12 text-center  wow fadeInUp animated" data-wow-duration="500ms">--}}
-                    {{--<div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-3.png')}}" alt="Team Member" class="img-responsive">--}}
-                        {{--<div class="overlay2">--}}
-                            {{--<h5>Auto Repair</h5>--}}
-                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
-                            {{--<ul class="social-links text-center">--}}
-                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
-                            {{--</ul>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<h4>John Filmr Doe</h4>--}}
-                    {{--<span>Managing Director</span> </div>--}}
-                {{--<div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">--}}
-                    {{--<div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">--}}
-                        {{--<div class="overlay2">--}}
-                            {{--<h5>Auto Repair</h5>--}}
-                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
-                            {{--<ul class="social-links text-center">--}}
-                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
-                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
-                            {{--</ul>--}}
-                        {{--</div>--}}
-                    {{--</div>--}}
-                    {{--<h4>John Filmr Doe</h4>--}}
-                    {{--<span>Managing Director</span> </div>--}}
-            {{--</div>--}}
-        {{--</div>--}}
-    {{--</section>--}}
-    <!--/#Experts-->
-
     <!--Our-Portfolio-->
     <section id="our-work" class="pading">
         <div class="container">
@@ -286,11 +187,11 @@
                 </div>
             </div>
             <div class="work-filter">
-                <ul id="filters" class="clearfix wow fadeInDown">
-                    <li><span class="filter active" data-filter="work1 work2 work3 work4 work5">All Services</span></li>
-                    <li><span class="filter" data-filter="work1">Residential</span></li>
-                    <li><span class="filter" data-filter="work2">Commercial</span></li>
-                </ul>
+                {{--<ul id="filters" class="clearfix wow fadeInDown">--}}
+                    {{--<li><span class="filter active" data-filter="work1 work2 work3 work4 work5">All Services</span></li>--}}
+                    {{--<li><span class="filter" data-filter="work1">Residential</span></li>--}}
+                    {{--<li><span class="filter" data-filter="work2">Commercial</span></li>--}}
+                {{--</ul>--}}
                 <div id="portfoliolist">
                     <div class="portfolio work4" data-cat="work4">
                         <div class="portfolio-wrapper gallery-wrap">
@@ -370,33 +271,253 @@
     </section>
     <!--/#Our-Portfolio-->
 
-
-    <!--Partner-->
-    <section id="partner">
+    <!--Running project-->
+    <section id="Services" class="pading">
         <div class="container">
-            <div class="row margin">
+            <div class="row wow fadeInDown margin">
+                <div class="col-md-6">
+                    <h2>Our Running Projects</h2>
+                </div>
+                <div class="col-md-7">
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/1.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>Panoramic Lift</h3>
+                                    <p>Engine Transmission</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">Panoramic Lift</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/2.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>Freight Elevator</h3>
+                                    <p>Engine Transmission,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">Freight Elevator</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/3.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>Home Lift</h3>
+                                    <p>Home Lift,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">Home Lift</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/4.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>Otis-Co18A</h3>
+                                    <p>Otis-Co18A,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">Otis-Co18A</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/5.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>High Speed Elevator</h3>
+                                    <p>sit aspernatur aut odit aut fugit,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">High Speed Elevator</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/6.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>30 Degree Escalator</h3>
+                                    <p>sit aspernatur aut odit aut fugit,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">30 Degree Escalator</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/7.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>30 Degree Escalator</h3>
+                                    <p>30 Degree Escalator,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">30 Degree Escalator</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-3">
+                    <div class="recent-work-wrap">
+                        <div class="team-member text-center wow fadeInUp animated" data-wow-duration="500ms">
+                            <div class="member-thumb"> <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Team Member" class="img-responsive">
+                                <div class="overlay2">
+                                    <h3>30 Degree Escalator</h3>
+                                    <p>sit aspernatur aut odit aut fugit,</p>
+                                    {{--<a class="btn-icon" href="/services">Read More <i class="fa fa-angle-double-right"></i></a>--}} </div>
+                                <div class="img-bg">30 Degree Escalator</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/.row-->
+        </div>
+        <!--/.container-->
+    </section>
+    <!--/#services-->
+
+    <!--Experts-->
+    <section id="team" class="pading">
+        <div class="container">
+            <div class="row margin wow fadeInUp animated" data-wow-duration="700ms">
                 <div class="col-md-3 col-sm-3">
-                    <h2>Our Partners</h2>
+                    <h2>Meet Our Team</h2>
                 </div>
                 <div class="col-md-9 col-sm-9">
                     <hr>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12">
-                    <div id="logo-slider" class="owl-carousel">
-                        <div class="item"><img src="{{asset('fontEnd/images/partner1.jpg')}}" alt="partner1"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner2.jpg')}}" alt="partner2"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner3.jpg')}}" alt="partner3"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner4.jpg')}}" alt="partner4"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner4.jpg')}}" alt="partner1"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner3.jpg')}}" alt="partner2"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner2.jpg')}}" alt="partner3"></div>
-                        <div class="item"><img src="{{asset('fontEnd/images/partner1.jpg')}}" alt="partner4"></div>
+                <div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
+                    <div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">
+                        {{--<div class="overlay2">--}}
+                            {{--<h5>Auto Repair</h5>--}}
+                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
+                            {{--<ul class="social-links text-center">--}}
+                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
+                            {{--</ul>--}}
+                        {{--</div>--}}
                     </div>
+                    <h4>Nazmul Hassan</h4>
+                    <span>Managing Director</span> </div>
+                <div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
+                    <div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">
+                        {{--<div class="overlay2">--}}
+                            {{--<h5>Auto Repair</h5>--}}
+                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
+                            {{--<ul class="social-links text-center">--}}
+                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
+                            {{--</ul>--}}
+                        {{--</div>--}}
+                    </div>
+                    <h4>Nazmul Hassan</h4>
+                    <span>Managing Director</span> </div>
+                <div class="team-member col-md-3 col-sm-3 col-xs-12 text-center  wow fadeInUp animated" data-wow-duration="500ms">
+                    <div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">
+                        {{--<div class="overlay2">--}}
+                            {{--<h5>Auto Repair</h5>--}}
+                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
+                            {{--<ul class="social-links text-center">--}}
+                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
+                            {{--</ul>--}}
+                        {{--</div>--}}
+                    </div>
+                    <h4>Nazmul Hassan</h4>
+                    <span>Managing Director</span> </div>
+                <div class="team-member col-md-3 col-sm-3 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
+                    <div class="member-thumb"> <img src="{{asset('fontEnd/images/expert-1.png')}}" alt="Team Member" class="img-responsive">
+                        {{--<div class="overlay2">--}}
+                            {{--<h5>Auto Repair</h5>--}}
+                            {{--<p>sit aspernatur aut odit aut fugit,</p>--}}
+                            {{--<ul class="social-links text-center">--}}
+                                {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+                                {{--<li><a href="#"><i class="fa fa-skype"></i></a></li>--}}
+                            {{--</ul>--}}
+                        {{--</div>--}}
+                    </div>
+                    <h4>Nazmul Hassan</h4>
+                    <span>Managing Director</span> </div>
+            </div>
+        </div>
+    </section>
+    <!--/#Experts-->
+
+    <!--Contact emr-->
+    <section id="large-call-to-action">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-4 block">
+                    <div class="bg" style="background-image: url('{{ asset('fontEnd/images/big-cta.jpg')}}');"></div>
+                </div>
+                <div class="col-md-8">
+                    <div class="content">
+                        <h1>Providing Personalized and High Quality Services.</h1>
+                        <p>We, as an authorized supplier, maintain an inventory of virtually every elevator spare parts manufactured since last 13 years. All of these supplies will be shipped for any spare parts as required. This service will be utilized only in the event of materials which are not available at stock. The spare parts manufactured by our suppliers maintain standard specifications.</p>
+                        <a class="btn-slide animation animated-item-3" href="/contact-us">Contact Us</a> </div>
                 </div>
             </div>
         </div>
     </section>
+    <!--/#Contact emr-->
+    <!--Partner-->
+    {{--<section id="partner">--}}
+        {{--<div class="container">--}}
+            {{--<div class="row margin">--}}
+                {{--<div class="col-md-3 col-sm-3">--}}
+                    {{--<h2>Our Partners</h2>--}}
+                {{--</div>--}}
+                {{--<div class="col-md-9 col-sm-9">--}}
+                    {{--<hr>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<div class="row">--}}
+                {{--<div class="col-md-12">--}}
+                    {{--<div id="logo-slider" class="owl-carousel">--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner1.jpg')}}" alt="partner1"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner2.jpg')}}" alt="partner2"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner3.jpg')}}" alt="partner3"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner4.jpg')}}" alt="partner4"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner4.jpg')}}" alt="partner1"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner3.jpg')}}" alt="partner2"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner2.jpg')}}" alt="partner3"></div>--}}
+                        {{--<div class="item"><img src="{{asset('fontEnd/images/partner1.jpg')}}" alt="partner4"></div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</section>--}}
     <!--/#Partner-->
 @endsection

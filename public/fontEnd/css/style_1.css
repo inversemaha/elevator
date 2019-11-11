@@ -46,7 +46,7 @@ a{
   transition:  color 1000ms, background-color 1500ms;
 }
 a:hover, a:focus {
-  color: #fdb813;
+  color: #3b5998;
   list-style:none;
   text-decoration: none;
   outline: none;
@@ -162,7 +162,7 @@ a:hover, a:focus {
     height: 60px;
     -webkit-transform: translateY(15px);
     transform: translateY(15px);
-    background-color: #fdb813;
+    background-color: #3b5998;
   }
   50% {
     height: 30px;
@@ -189,7 +189,7 @@ a:hover, a:focus {
 	text-decoration: none;
 	color: #fff;
 	font-size:20px;
-	background:#fdb813;
+	background:#3b5998;
 	padding:8px;
 }
 hr {
@@ -199,7 +199,7 @@ hr {
   width:100%;
 }
 hr::after {
-  background:#fdb813 ;
+  background:#3b5998 ;
   content: "";
   display:block;
   height:4px;
@@ -463,7 +463,7 @@ nav {
   margin:13% 0;
  }
 #main-slider .carousel  h2{
-  color: #fdb813;
+  color: #3b5998;
   background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
   padding: 5px 20px;
   display: inline-block;
@@ -497,7 +497,7 @@ nav {
 }
 #main-slider .carousel .active.btn-slide.animation.animated-item-1 {
   padding:13px 50px;
-  background: #fdb813 ;
+  background: #3b5998 ;
   color: #fff;
   border-radius:0;
   margin-top: 25px;
@@ -557,7 +557,7 @@ nav {
 
 #main-slider .prev:hover,
 #main-slider .next:hover {
-  background-color: #fdb813;
+  background-color: #3b5998;
 }
 
 #main-slider .prev {
@@ -591,9 +591,9 @@ nav {
 #main-slider .carousel-indicators .active{
   width: 20px;
   height: 20px;
-  background-color: #fdb813 ;
+  background-color: #3b5998 ;
    margin: 0 15px 0 0;
-   border: 1px solid #fdb813 ;
+   border: 1px solid #3b5998 ;
    position: relative;
 }
 
@@ -603,8 +603,8 @@ nav {
   width: 24px;
   height: 24px;
   border-radius: 100%;
-  background: #fdb813 ;
-  border: 1px solid #fdb813 ;
+  background: #3b5998 ;
+  border: 1px solid #3b5998 ;
   left: -3px;
   top: -3px;
 }
@@ -658,7 +658,7 @@ nav {
 }
 
 .about-us-box h1::after {
-  background: #fdb813  none repeat scroll 0 0;
+  background: #3b5998  none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 1px;
@@ -704,7 +704,7 @@ nav {
   width: 60px;
 }
  .about-us-box .about-us-post a:hover{
-	background:#fdb813 ;
+	background:#3b5998 ;
 }
  .about-us-box .about-us-post h4 {
   color: #ffffff;
@@ -767,7 +767,7 @@ nav {
   color:#fff;
 }
 .overlay2 > h3 {
-  border-bottom:2px solid #fdb813;
+  border-bottom:2px solid #3b5998;
   color: #fff;
   display: inline-block;
   padding-bottom: 8px;
@@ -776,7 +776,7 @@ nav {
   margin-top:60px;
 }
 .overlay2 a.btn-icon:hover {
-	color:#fdb813;
+	color:#3b5998;
 	background:#fff;
 }
 .member-thumb .overlay2 {
@@ -806,7 +806,7 @@ nav {
 }
 
 .team-member:hover h4 {
-  color: #fdb813 ;
+  color: #3b5998 ;
 }
 
 .team-member .social-links {
@@ -815,7 +815,7 @@ nav {
 }
 .team-member .social-links li{  list-style:none; display:inline-block}
 .team-member .social-links li a {
- 	 background: #fdb813 none repeat scroll 0 0;
+ 	 background: #3b5998 none repeat scroll 0 0;
     border:1px solid transparent;
     color: #fff;
     display: inline-block;
@@ -891,7 +891,7 @@ nav {
 }
 .work-filter #filters li:hover {
   border-color: transparent;
-  color: #fdb813 ;
+  color: #3b5998;
 }
 .work-filter #filters li {
   border-left: 2px solid #ebebeb;
@@ -959,7 +959,7 @@ nav {
     transition: all 0.6s ease 0s;
 }
 .our-work-overlay .icon-overlay {
-	color:#fdb813;
+	color:#3b5998;
 	display: inline-block;
 	opacity: 0;
 	position: absolute;
@@ -977,7 +977,7 @@ nav {
 }
 .icon-overlay i.fa {
   background: #fff none repeat scroll 0 0;
-  color: #fdb813;
+  color: #3b5998;
   height: 40px;
   line-height: 40px;
   width: 40px;
@@ -1035,14 +1035,14 @@ h3.heading-overlay {
 	filter: grayscale(0);
 	box-shadow: 2px 3px 5px #d9d7d7, -2px -3px 5px #d9d7d7;
 	border:1px solid #d9d7d7;
-	color:#fdb813 ;
+	color:#3b5998 ;
 }
 .news_text {
-  border-bottom: 1px solid #fdb813 ;
+  border-bottom: 1px solid #3b5998 ;
   margin:26px 10px;
 }
 .news_text h3 {
-	color:#fdb813 ;
+	color:#3b5998 ;
 }
 .news_text p {
 	color:#4e4e4e;
@@ -1067,7 +1067,7 @@ a.fancybox .fa:focus {
   color: #fff;
 }
  a.btn-icon {
-  background: #fdb813  none repeat scroll 0 0;
+  background: #3b5998  none repeat scroll 0 0;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -1116,7 +1116,7 @@ a.fancybox .fa:focus {
   color:#fff;
 }
 #large-call-to-action .btn-slide {
-  background: #fdb813  none repeat scroll 0 0;
+  background: #3b5998  none repeat scroll 0 0;
   color: #fff;
   display: inline-block;
   font-size: 20px;
@@ -1125,7 +1125,7 @@ a.fancybox .fa:focus {
 }
 #large-call-to-action .btn-slide:hover {
   background: #fff none repeat scroll 0 0;
-  color: #fdb813 ;
+  color: #3b5998 ;
 }
 #large-call-to-action {
   background:#222222;
@@ -1214,7 +1214,7 @@ a.fancybox .fa:focus {
   padding: 0;
 }
 #call-to-action h2{
-  border-left: 6px solid #fdb813;
+  border-left: 6px solid #3b5998;
   padding-left:22px;
   color:#fff;
 }
@@ -1233,7 +1233,7 @@ a.fancybox .fa:focus {
 }
 .content .fa {
   margin: 0 20px;
-  color:#fdb813;
+  color:#3b5998;
 }
 .call-to-action-white {
   background: #222222  none repeat scroll 0 0;
@@ -1242,7 +1242,7 @@ a.fancybox .fa:focus {
 #call-to-action  .btn-slide {
   background: #fff none repeat scroll 0 0;
   border-radius: 4px;
-  color: #fdb813 ;
+  color: #3b5998 ;
   display: inline-block;
   font-size: 20px;
   margin-top:52px;
@@ -1285,7 +1285,7 @@ a.fancybox .fa:focus {
 #footer-top {
 	background: #222222;
 	padding: 3% 0;
-	border-top:5px solid #fdb813 ;
+	border-top:5px solid #3b5998 ;
 }
 .footer-box #latest-work img{
 	margin-bottom:11px;
@@ -1360,7 +1360,7 @@ a.fancybox .fa:focus {
 	margin-top:12px;
 }
 .adress li .fa {
-  color: #fdb813 ;
+  color: #3b5998 ;
   font-size: 20px;
   margin-right: 16px;
 }
@@ -1379,7 +1379,7 @@ a.fancybox .fa:focus {
 }
 .subbutton {
   padding:9px 29px;
-  background:#fdb813 ;
+  background:#3b5998 ;
   color:#fff;
   border:none;
   transition: color 1000ms ease 0s,
@@ -1390,7 +1390,7 @@ a.fancybox .fa:focus {
 }
 .subbutton:hover {
   background:#fff;
-  color:#fdb813 ;
+  color:#3b5998 ;
   border:none;
 }
 #footer-top .footer-box h3 {
@@ -1411,7 +1411,7 @@ a.fancybox .fa:focus {
 	margin-left: 10px;
 }
 .footer-box ul.links li a:hover {
-	color: #fdb813 ;
+	color: #3b5998 ;
 }
 .copyright{
   border-top:1px solid #333;

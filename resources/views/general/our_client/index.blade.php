@@ -18,35 +18,60 @@
                 <div id="services-slider" class="owl-carousel">
                     <div class="item">
                         <img src="{{asset('fontEnd/images/1.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Maintenance and Repair</span>
+                        <span class="overlay-effect">Meghna Group of Industries</span>
                         {{--<span class="button-effect">--}}
           {{--<a class="btn-icon" href="services.html">Read More </a>--}}
           {{--</span>--}}
                     </div>
                     <div class="item">
                         <img src="{{asset('fontEnd/images/2.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Inspection and Lubrication</span>
+                        <span class="overlay-effect">Bashundhara Group</span>
                         {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More </a> </span>--}}
                     </div>
                     <div class="item">
                         <img src="{{asset('fontEnd/images/3.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Full Maintenance </span>
+                        <span class="overlay-effect">Ananta Group </span>
                         {{--<span class="button-effect"><a class="btn-icon" href="#">Read More</a></span>--}}
                     </div>
                     <div class="item">
                         <img src="{{asset('fontEnd/images/4.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Advance Support</span>
+                        <span class="overlay-effect">Sunman Group</span>
                         {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
                     </div>
                     <div class="item">
                         <img src="{{asset('fontEnd/images/5.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Full Maintenance with overtime callbacks</span>
+                        <span class="overlay-effect">Youngone Group</span>
                         {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
                     </div>
 
                     <div class="item">
                         <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
-                        <span class="overlay-effect">Full Maintenance</span>
+                        <span class="overlay-effect">Arla Food Bangladesh Ltd. (DANO)</span>
+                        {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
+                    </div>
+                    <div class="item">
+                        <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
+                        <span class="overlay-effect">Medinova Medical Services Ltd</span>
+                        {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
+                    </div>
+                    <div class="item">
+                        <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
+                        <span class="overlay-effect">Rangs Group</span>
+                        {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
+                    </div>
+                    <div class="item">
+                        <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
+                        <span class="overlay-effect">NASIR GROUP</span>
+                        {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
+                    </div>
+                    <div class="item">
+                        <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
+                        <span class="overlay-effect">Incepta Pharmaceutical Ltd.</span>
+                        {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
+                    </div>
+                    <div class="item">
+                        <img src="{{asset('fontEnd/images/8.jpg')}}" alt="Owl Image">
+                        <span class="overlay-effect">Dr. M R Khan Shishu Hospital & Institute of Child Health</span>
                         {{--<span class="button-effect"> <a class="btn-icon" href="#">Read More</a> </span>--}}
                     </div>
                 </div>

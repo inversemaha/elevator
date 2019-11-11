@@ -57,17 +57,17 @@
                 </ul>
             </div>
             <div class="col-md-2 col-sm-2 col-xs-12 footer-box">
-                <h3>Our Services</h3>
+                {{--<h3>Our Services</h3>--}}
                 <ul class="links">
-                    <li><a href="#">Maintenance and Repair</a></li>
-                    <li><a href="#">Inspection and Lubrication</a></li>
-                    <li><a href="#">Full Maintenance (10:00 am to 6:30 pm, Sat – Thurs)</a></li>
-                    <li><a href="#">Advance Support</a></li>
-                    <li><a href="#">Full Maintenance with overtime callbacks</a></li>
-                    <li><a href="#">Sespention</a></li>
+                    {{--<li><a href="#">Maintenance and Repair</a></li>--}}
+                    {{--<li><a href="#">Inspection and Lubrication</a></li>--}}
+                    {{--<li><a href="#">Full Maintenance (10:00 am to 6:30 pm, Sat – Thurs)</a></li>--}}
+                    {{--<li><a href="#">Advance Support</a></li>--}}
+                    {{--<li><a href="#">Full Maintenance with overtime callbacks</a></li>--}}
+                    {{--<li><a href="#">Sespention</a></li>--}}
                 </ul>
             </div>
-            <div class="col-md-3 col-sm-3 col-xs-12 footer-box">
+            <div style="margin-left: 15%" class="col-md-3 col-sm-3 col-xs-12 footer-box">
                 <div class="unborder"><img  src="{{asset('fontEnd/images/logo.png')}}" class="img-responsive" alt="logo"></div>
                 <ul class="adress">
                     <li>

@@ -66,7 +66,7 @@
                            {{--<li><a href="#">Sespention</a>--}}
                         </ul>
                      </div>
-                     <div class="col-md-3 col-sm-3 col-xs-12 footer-box">
+                     <div class="col-md-4 col-sm-4 col-xs-12 footer-box">
                         <div class="unborder"><img  src="{{asset('fontEnd/images/logo.png')}}" class="img-responsive" alt="logo"></div>
                         <ul class="adress">
                            <li>
